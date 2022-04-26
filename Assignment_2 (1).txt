@@ -1,0 +1,50 @@
+1. Write a program which can map() to make a list whose elements are square of numbers between 1 and 20 (both included).
+
+2. Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
+Example: If the following n is given as input to the program:
+5
+
+Then, the output of the program should be:
+3.55
+In case of input data being supplied to the question, it should be assumed to be a console input.
+
+3. You are given words. Some words may repeat. For each word, output its number of occurrences. The output order should correspond with the input order of appearance of the word. See the sample input/output for clarification.
+
+If the following string is given as input to the program:
+4 bcdef abcdefg bcde bcdef
+
+Then, the output of the program should be:
+3 2 1 1
+
+4. You are given a string.Your task is to count the frequency of letters of the string and print the letters in descending order of frequency.
+
+If the following string is given as input to the program:
+aabbbccde
+
+Then, the output of the program should be:
+b 3 a 2 c 2 d 1 e 1
+
+5. Given 2 sets of integers, M and N, print their symmetric difference in ascending order. The term symmetric difference indicates those values that exist in either M or N but do not exist in both.
+
+Input:
+The first line of input contains an integer, M.The second line contains M space-separated integers.The third line contains an integer, N.The fourth line contains N space-separated integers.
+4 2 4 5 9 4 2 4 11 12
+
+Output:
+Output the symmetric difference integers in ascending order, one per line.
+5 9 11 12
+
+6. Please write a program which accepts a string from console and print the characters that have even indexes.
+
+Example: If the following string is given as input to the program:
+
+H1e2l3l4o5w6o7r8l9d
+
+Then, the output of the program should be:
+Helloworld
+
+7. Write a program to solve a classic ancient Chinese puzzle: We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have?
+
+8. With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line.
+
+

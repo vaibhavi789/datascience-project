@@ -1,0 +1,35 @@
+1. Write a Python program to count and display the vowels of a given text.
+
+2. Addition is a string with a list of numbers separated by the + sign. Write code that uses the accumulation pattern to take the sum of all of the numbers and assigns it to sum_val (an integer). (You should use the .split("+") function to split by "+" and int() to cast to an integer).
+Addition = "2+5+10+20"
+
+3. Write a Python program to combine two dictionary adding values for common keys
+d1 = {'a': 100, 'b': 200, 'c':300}
+
+d2 = {'a': 300, 'b': 200, 'd':400}
+
+Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
+
+4. Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters
+
+5. Write a Python program that accepts a string and calculate the number of digits and letters.
+Input :-Hello321Bye360
+Output:-Digit - 6,Letter - 8
+
+6. You are given a string.Your task is to count the frequency of letters of the string and print the letters in descending order of frequency.
+for example :- If the following string is given as input to the program: aabbbccde
+Then, the output of the program should be: b 3 a 2 c 2 d 1 e 1
+
+7. Write a Python function that checks whether a passed string is palindrome or not
+
+8. Write a Python program to match key values in two dictionaries. Go to the editor
+Sample dictionary: {'key1': 1, 'key2': 3, 'key3': 2}, {'key1': 1, 'key2': 2}
+Expected output: key1: 1 is present in both x and y
+
+9. Write a Python program to sort a tuple by its float element.
+Sample data: [('item1', '12.20'), ('item2', '15.10'), ('item3', '24.5')]
+Expected Output: [('item3', '24.5'), ('item2', '15.10'), ('item1', '12.20')]
+
+10. Write a Python program to count the values associated with key in a dictionary.
+Sample data: = [{'id': 1, 'success': True, 'name': 'Lary'}, {'id': 2, 'success': False, 'name': 'Rabi'}, {'id': 3, 'success': True, 'name': 'Alex'}]
+Expected result: Count of how many dictionaries have success as True
